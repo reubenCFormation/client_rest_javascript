@@ -1,0 +1,34 @@
+
+{
+    "restaurants":[
+        {
+            "name":"Los Pollos Hermanos",
+            "owner":"Gus",
+            "cuisine":"Fast Food",
+            "location":"New Mexico"
+
+        },
+
+        {
+            "name":"La Brasserie Du Coin",
+            "owner":"Toto",
+            "cuisine":"Bistrot",
+            "location":"Paris"
+
+        },
+
+        {
+            "name": "Giordano's Pizza",
+            "owner":"Joseph Bogilio",
+            "cuisine":"Deep Dish Pizza",
+            "location":"Chicago"
+
+        },
+        {
+            "name":"Katz Deli",
+            "owner":"Jake Dell",
+            "cuisine":"Deli Sandwhiches",
+            "location":"New York City"
+        }
+    ]
+}
