@@ -3,7 +3,7 @@ getForm.addEventListener("submit",onFormSubmit);
 
 function onFormSubmit(event){
     event.preventDefault();
-    console.log("the form has been submitted");
+    
     const firstnameEntered=document.querySelector(".firstname-input").value;
     const lastnameEntered=document.querySelector(".lastname-input").value;
     const emailEntered=document.querySelector(".email-input").value;

@@ -40,7 +40,6 @@ function appendLink(tr,response,tdLink,index){
 }
 
 function setTextContent(response,tdFirstname,tdLastname,tdEmail,tdDescription,index){
-    console.log(response.data)
     tdFirstname.textContent=response.data[index].firstname;
     tdLastname.textContent=response.data[index].lastname;
     tdEmail.textContent=response.data[index].email;

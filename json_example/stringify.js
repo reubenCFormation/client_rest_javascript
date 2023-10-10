@@ -2,7 +2,8 @@
 
 const dataToSend={firstname:"Tom",lastname:"Brady",professsion:"Goat",teams:["Patriots","Bucanneers"]};
 
-console.log("MON objet datatosend en format objet");
+console.log("Mon Objet Javascript");
+console.log(dataToSend);
 
 // Heuresement, on peux faire un JSON.stringify qui va officiellement transformer mon objet javascript en JSON. Mon serveur va pouvoir lui meme parser ce json et le transformer sous un format comprehensible pour lui (Tableau associatif en PHP)
 
